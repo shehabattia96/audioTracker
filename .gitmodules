@@ -1,0 +1,6 @@
+[submodule "externals/Cinder-Simulation-App"]
+	path = externals/Cinder-Simulation-App
+	url = https://github.com/shehabattia96/Cinder-Simulation-App.git
+[submodule "externals/vcpkg"]
+	path = externals/vcpkg
+	url = https://github.com/Microsoft/vcpkg.git
